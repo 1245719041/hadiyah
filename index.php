@@ -20,6 +20,5 @@ Site : www.malasngoding.com
 	
  
 	</div>
-</div>
-</body>
+
 </html>
