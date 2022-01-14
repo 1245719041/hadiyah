@@ -5,7 +5,7 @@
 	<link rel="stylesheet" type="text/css" href="style.css">
 	<!-- menghubungkan dengan file jquery -->
 	<script type="text/javascript" src="jquery.js"></script>
-</head>
+
 <body>
 <!-- 
 Author : diki alfarabi hadi 
